@@ -6,6 +6,7 @@
 1. Diabetes Prediction Models
 These projects use machine learning to predict diabetes risk based on various factors.
 <img src="https://hiacode.com/hubfs/Diabetes%20-%20Medical%20Concept%20on%20Grey%20Background%20with%20Blurred%20Text%20and%20Composition%20of%20Pills%2c%20Syringe%20and%20Stethoscope.%203D%20Render..jpeg" height=15% width=40% align="right">
+<img src="https://hiacode.com/hubfs/New%20ICD-10%20CM%20Codes.jpg" height=15% width=40% align="right">
 Diabetes Prediction using Machine Learning: This project uses machine learning algorithms to predict diabetes based on patient data.
 Diabetes Detection with Python: A Python-based approach for predicting diabetes using logistic regression and other machine learning models.
 
