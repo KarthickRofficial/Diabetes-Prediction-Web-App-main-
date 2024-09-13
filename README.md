@@ -7,7 +7,8 @@
 * Deep Learning in Medical Image Processing and Analysis Paper Author
 * Self-Taught Coder
 * Demanding Perfectionist
-  
+
+  *Diabetes Procedures
 1. Diabetes Prediction Models
 These projects use machine learning to predict diabetes risk based on various factors.
 
@@ -50,7 +51,7 @@ Diabetes Awareness Website: A website providing information and resources about 
 Diabetes Info App: A mobile application designed to educate users about diabetes, its symptoms, and management strategies.
 
 
-Diabetes research and technology are rapidly evolving fields, with many exciting developments on the horizon. Here are some of the anticipated future updates and advancements in diabetes management and treatment:
+* Diabetes research and technology are rapidly evolving fields, with many exciting developments on the horizon. Here are some of the anticipated future updates and advancements in diabetes management and treatment:
 
 1. Advances in Continuous Glucose Monitoring (CGM)
 Non-Invasive CGM: Researchers are working on non-invasive glucose monitoring technologies, such as those using infrared spectroscopy or other innovative methods, which could eliminate the need for frequent finger-prick tests.
