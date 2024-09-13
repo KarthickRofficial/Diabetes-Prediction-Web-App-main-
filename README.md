@@ -19,7 +19,7 @@ These projects involve analyzing diabetes datasets to derive insights or visuali
 Diabetes Dataset Analysis: This repository includes code for analyzing and visualizing diabetes data using Python and libraries like Pandas and Matplotlib.
 Diabetes Visualization: Contains visualizations and exploratory data analysis for diabetes-related datasets.
 
-<img src="https://st2.depositphotos.com/1177973/12436/i/450/depositphotos_124360772-stock-photo-pills-and-syringe-on-paper.jpeg" height=15% width=40% align="right">
+<img src="https://st2.depositphotos.com/1177973/12436/i/450/depositphotos_124360772-stock-photo-pills-and-syringe-on-paper.jpg" height=30% width=60% align="right">
 
 
 
