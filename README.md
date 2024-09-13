@@ -6,6 +6,11 @@
 1. Diabetes Prediction Models
 These projects use machine learning to predict diabetes risk based on various factors.
 
+ <img src="https://www.google.com/search?q=diabites&sca_esv=3f65f6f3feeae64f&sca_upv=1&udm=2&biw=1360&bih=633&sxsrf=ADLYWIJmyG9zdgkSMbuJGcd5mcZ3LdOjFQ%3A1726221456653&ei=kAzkZsTMJ-Wo4-EPz8PXKA&ved=0ahUKEwjE1OiF1L-IAxVl1DgGHc_hFQUQ4dUDCBA&uact=5&oq=diabites&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGRpYWJpdGVzMgUQABiABDIFEAAYgAQyCRAAGIAEGBgYCjIJEAAYgAQYGBgKMgkQABiABBgYGAoyCRAAGIAEGBgYCjIJEAAYgAQYGBgKMgkQABiABBgYGAoyCRAAGIAEGBgYCjIJEAAYgAQYGBgKSKokUNkGWKIicAJ4AJABApgBW6ABjwuqAQIxN7gBA8gBAPgBAZgCC6ACkQaoAgTCAgQQIxgnwgIGEAAYBRgewgIHEAAYgAQYGMICBxAjGCcY6gLCAggQABiABBixA8ICChAAGIAEGEMYigXCAgsQABiABBixAxiDAcICBBAAGB6YAwKIBgGSBwIxMaAHmGs&sclient=gws-wiz-serp#vhid=4oH8jtAlqmRlTM&vssid=mosaic" height=15% width=40% align="right">
+
+
+
+
 Diabetes Prediction using Machine Learning: This project uses machine learning algorithms to predict diabetes based on patient data.
 Diabetes Detection with Python: A Python-based approach for predicting diabetes using logistic regression and other machine learning models.
 2. Diabetes Data Analysis
