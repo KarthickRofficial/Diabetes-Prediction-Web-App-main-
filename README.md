@@ -13,15 +13,20 @@ These projects use machine learning to predict diabetes risk based on various fa
 
 Diabetes Prediction using Machine Learning: This project uses machine learning algorithms to predict diabetes based on patient data.
 Diabetes Detection with Python: A Python-based approach for predicting diabetes using logistic regression and other machine learning models.
+
+
+
 2. Diabetes Data Analysis
 These projects involve analyzing diabetes datasets to derive insights or visualize data.
 
-Diabetes Dataset Analysis: This repository includes code for analyzing and visualizing diabetes data using Python and libraries like Pandas and Matplotlib.
-Diabetes Visualization: Contains visualizations and exploratory data analysis for diabetes-related datasets.
-
-
 
 <img src="https://hiacode.com/hubfs/New%20ICD-10%20CM%20Codes.jpg" height=15% width=40% align="right">
+
+
+
+
+Diabetes Dataset Analysis: This repository includes code for analyzing and visualizing diabetes data using Python and libraries like Pandas and Matplotlib.
+Diabetes Visualization: Contains visualizations and exploratory data analysis for diabetes-related datasets.
 
 
 
