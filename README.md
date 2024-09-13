@@ -6,7 +6,7 @@
 1. Diabetes Prediction Models
 These projects use machine learning to predict diabetes risk based on various factors.
 
- <img src="https://hiacode.com/hubfs/Diabetes%20-%20Medical%20Concept%20on%20Grey%20Background%20with%20Blurred%20Text%20and%20Composition%20of%20Pills%2c%20Syringe%20and%20Stethoscope.%203D%20Render..jpeg" height=15% width=40% align="right">
+<img src="https://hiacode.com/hubfs/Diabetes%20-%20Medical%20Concept%20on%20Grey%20Background%20with%20Blurred%20Text%20and%20Composition%20of%20Pills%2c%20Syringe%20and%20Stethoscope.%203D%20Render..jpeg" height=15% width=40% align="right">
 
 
 
@@ -19,7 +19,12 @@ These projects involve analyzing diabetes datasets to derive insights or visuali
 Diabetes Dataset Analysis: This repository includes code for analyzing and visualizing diabetes data using Python and libraries like Pandas and Matplotlib.
 Diabetes Visualization: Contains visualizations and exploratory data analysis for diabetes-related datasets.
 
+
+
 <img src="https://hiacode.com/hubfs/New%20ICD-10%20CM%20Codes.jpg" height=15% width=40% align="right">
+
+
+
 
 
 3. Diabetes Management Apps
