@@ -2,7 +2,12 @@
 
   <img alt="Coder GIF" height=300 width=450 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
-  ### I'm a...        
+  ### I'm a...
+* Future Data Scientist 
+* Deep Learning in Medical Image Processing and Analysis Paper Author
+* Self-Taught Coder
+* Demanding Perfectionist
+  
 1. Diabetes Prediction Models
 These projects use machine learning to predict diabetes risk based on various factors.
 
