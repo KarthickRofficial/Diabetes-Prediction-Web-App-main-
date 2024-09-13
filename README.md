@@ -22,7 +22,7 @@ Diabetes Visualization: Contains visualizations and exploratory data analysis fo
 
 
 
- <img src="https://st2.depositphotos.com/1177973/12436/i/450/depositphotos_124360772-stock-photo-pills-and-syringe-on-paper..jpeg" height=30% width=60% align="right">
+<img src="https://st2.depositphotos.com/1177973/12436/i/450/depositphotos_124360772-stock-photo-pills-and-syringe-on-paper..jpeg" height=30% width=60% align="right">
 
 
 
