@@ -3,3 +3,7 @@
   ### I'm a...                    <img alt="Coder GIF" height=300 width=450 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
 
+* Future Data Scientist 
+* Deep Learning in Medical Image Processing and Analysis Paper Author
+* Self-Taught Coder
+* Demanding Perfectionist
