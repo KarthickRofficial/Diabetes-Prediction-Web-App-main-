@@ -93,7 +93,7 @@ Integration with Other Health Metrics: Expect closed-loop systems to integrate w
 
 
 
-
+<img src="https://yes-himconsulting.com/wp-content/uploads/2023/12/HCC-Coding-Cheat-Sheet-2023-Top-Missed-Codes-Article-Photo-1024x536.jpeg" height=15% width=40% align="right">
 
 
 
